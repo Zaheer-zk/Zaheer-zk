@@ -61,3 +61,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zaheer-zk&show_icons=true&locale=en" alt="zaheer-zk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaheer-zk&" alt="zaheer-zk" /></p>
+
+
+
+### Profile Views  ![](https://count.getloli.com/get/@Zaheer-zk) </br>  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> </br>
