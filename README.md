@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Creative Project**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Salesforce**
 
 - 👯 I’m looking to collaborate on **Web 3.0**
 
