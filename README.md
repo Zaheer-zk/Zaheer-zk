@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Problem Solving**
 
-- 👨‍💻 All of my projects are available at [https://zaheerkhan.online](https://zaheer-zk.github.io/Zaheerkhan.online/)
+- 👨‍💻 All of my projects are available at [https://zaheerkhan.online](https://zaheer-zk.github.io/Advanced-porfolio/)
 
 - 💬 Ask me about **Web Development (Full Stack)**
 
