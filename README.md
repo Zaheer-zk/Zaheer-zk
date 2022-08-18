@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaheer Khan</h1>
-<h3 align="center">Hi I am Zaheer. I am a Self-taught developer who loves building products from scratch. From brainstorming designing coding to marketing I love every bit of it</h3>
+<p align="center"><img src="https://github.com/Zaheer-zk/Zaheer-zk/blob/master/demo.gif" align="center" alt="Geek GIF" /></p>
+<h3 align="center"> I am a Self-taught developer who loves building products from scratch. From brainstorming designing coding to marketing I love every bit of it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaheer-zk&label=Profile%20views&color=0e75b6&style=flat" alt="zaheer-zk" /> </p>
 
