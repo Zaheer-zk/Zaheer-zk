@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zaheer-zk" alt="zaheer-zk" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/zkeditofficial" target="blank"><img src="https://img.shields.io/twitter/follow/zkeditofficial?logo=twitter&style=for-the-badge" alt="zkeditofficial" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zaheer__zk" target="blank"><img src="https://img.shields.io/twitter/follow/zaheer__zk?logo=twitter&style=for-the-badge" alt="zaheer__zk" /></a> </p>
 
 - 🔭 I’m currently working on **Creative Project**
 
