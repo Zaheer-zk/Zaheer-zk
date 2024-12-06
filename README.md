@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zaheer Khan (zaheer__zk)</h1>
 <!-- <p align="center"><img src="https://github.com/Zaheer-zk/Zaheer-zk/blob/master/demo.gif" align="center" alt="Geek GIF" /></p> -->
-<h3 align="center"> I am a Self-taught developer who loves building products from scratch. From brainstorming designing coding to marketing I love every bit of it</h3>
+<h3 align="center"> I am a self-taught developer who loves building products from scratch. From brainstorming and designing coding to marketing I love every bit of it</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaheer-zk&label=Profile%20views&color=0e75b6&style=flat" alt="zaheer-zk" /> </p>
 
@@ -10,17 +10,17 @@
 
 - 🔭 I’m currently working on **Creative Project**
 
-- 🌱 I’m currently learning **Salesforce**
+- 🌱 I’m currently learning **Mobile and Cloud Development**
 
-- 👯 I’m looking to collaborate on **Web 3.0**
+- 👯 I’m looking to collaborate on **Web Application Development**
 
 - 🤝 I’m looking for help with **Problem Solving**
 
-- 👨‍💻 All of my projects are available at [https://zaheerkhan.online](https://zaheer-zk.github.io/Advanced-porfolio/)
+- 👨‍💻 All of my projects are available at [https://zaheer-zk.github.io/Advanced-porfolio/](https://zaheer-zk.github.io/Advanced-porfolio/)
 
 - 💬 Ask me about **Web Development (Full Stack)**
 
-- 📫 How to reach me **zaheerkhan01040@gmail.com**
+- 📫 How to reach me **khanzaheersami@gmail.com**
 
 - ⚡ Fun fact **Avid Learner**
 
