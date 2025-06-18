@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zaheer Khan (zaheer__zk)</h1>
+<h1 align="center">Hi 👋, I'm Zaheer Khan (zaheerzk)</h1>
 <!-- <p align="center"><img src="https://github.com/Zaheer-zk/Zaheer-zk/blob/master/demo.gif" align="center" alt="Geek GIF" /></p> -->
 <h3 align="center"> I am a self-taught developer who loves building products from scratch. From brainstorming and designing coding to marketing I love every bit of it</h3>
 
